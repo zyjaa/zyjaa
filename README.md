@@ -1,1 +1,1 @@
-<div align="center"> <img src="https://metrics.lecoq.io/zyjaa?template=classic&config.timezone=Asia%2FShanghai"> </div>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=zyjaa&show_icons=true&theme=dark&count_private=true)
